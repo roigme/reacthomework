@@ -1,0 +1,52 @@
+[
+    {
+        "letter": "A",
+        "clicked": false,
+        "src": "images/plane1.gif"
+    },
+    {
+        "letter": "B",
+        "clicked": false,
+        "src": "images/plane2.gif"
+    },
+    {
+        "letter": "C",
+        "clicked": false,
+        "src": "images/planeride.gif"
+    },
+    {
+        "letter": "D",
+        "clicked": false,
+        "src": "images/r21.gif"
+    },
+    {
+        "letter": "E",
+        "clicked": false,
+        "src": "images/r22.gif"
+    },
+    {
+        "letter": "F",
+        "clicked": false,
+        "src": "images/trap.gif"
+    },
+    {
+        "letter": "G",
+        "clicked": false,
+        "src": "images/wee.gif"
+    },
+    {
+        "letter": "H",
+        "clicked": false,
+        "src": "images/yoda1.gif"
+    },
+    {
+        "letter": "I",
+        "clicked": false,
+        "src": "images/yoda2.gif"
+    },
+    {
+        "letter": "J",
+        "clicked": false,
+        "src": "images/yoda3.gif"
+    }
+]
